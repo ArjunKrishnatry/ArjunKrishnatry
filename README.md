@@ -8,18 +8,17 @@ I am a third year Computer Science student at the University of Western Ontario 
 - Full-Stack Development  
 - NLP Modelling
 
-## 🛠️ Technical Skills
+## 🛠️ Languages and Tools
 
-### Languages
-**Python, C/C++, Java, SQL, R, ARM Assembly, JavaScript/TypeScript, HTML/CSS**
-
-### ML / Data
-**PyTorch, TensorFlow, scikit-learn, NumPy, pandas, Matplotlib**
-
-### Frameworks & Tools
-**Git/GitHub, Linux/Unix, Flask, FastAPI, React, Next.js, Electron, Jupyter, LaTeX**
+<br>
+  
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,r" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,react,nextjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,latex,mongodb,mysql" />
+</p>
 
 
+<hr>
 
 ## 📫 Connect With Me!
 - **GitHub:** [github.com/ArjunKrishnatry](https://github.com/ArjunKrishnatry)
